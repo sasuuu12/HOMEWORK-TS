@@ -1,0 +1,10 @@
+# Dependacies
+node_modules/
+
+#Secrets
+.env
+
+#Logs
+logs/
+*.log
+
