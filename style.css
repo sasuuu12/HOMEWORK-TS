@@ -1,17 +1,6 @@
-nav {
-  background-color: #3498db;
-  padding: 1rem;
+button {background-color: blue;}
+
+body{
+  background-color: white;
+  font-size: 16px;
 }
-nav ul {
-  list-style: none;
-  display: flex;
-  gap: 20px;
-}
-nav ul li a {
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
-}
-nav ul li a:hover {
-  text-decoration: underline;
-}/*# sourceMappingURL=style.css.map */
